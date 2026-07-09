@@ -15,26 +15,18 @@
 
 - 🎓 BA in Political Science, **Universitat Pompeu Fabra** (Barcelona)
 - - 🎓 MSc in **Computational Social Science**, **UC3M** (graduating Sept 2026)
-  - - 📊 Quantitative background: statistical modeling, machine learning, text mining, network analysis, web scraping, survey analysis
-    - - 🗳️ Research focus: **digital politics and electoral behavior** — my thesis analyzes Javier Milei's 2023 Argentina campaign combining social media scraping and LAPOP survey data
-      - - 🌍 Particularly interested in **Latin American political behavior**
-        - - 💼 Previously interned at NTT Data (public sector consulting), Cercle Tecnològic de Catalunya, and Seidor
-          - - 🌐 Languages: Spanish (native) · Italian (C2) · English (C1) · Catalan (advanced)
-            - - 📍 Based in Madrid, open to opportunities in political/social data analysis and research
-             
-              - ---
+- - 📊 Quantitative background: statistical modeling, machine learning, text mining, network analysis, web scraping, survey analysis
+- - 🗳️ Research focus: **digital politics and electoral behavior** — my thesis analyzes Javier Milei's 2023 Argentina campaign combining social media scraping and survey data
+- - 🌍 Particularly interested in **Latin American political behavior**
+- - 💼 Previously interned at NTT Data (public sector consulting), Cercle Tecnològic de Catalunya, and Seidor
+- - 🌐 Languages: Spanish (native) · Italian (C2) · English (C1) · Catalan (advanced)
+- - 📍 Based in Madrid, open to opportunities in political/social data analysis and research
 
-              ### 🚀 Featured Projects
+     - ---
 
-              | Project | Description | Stack |
-              |---|---|---|
-              | 🎭 [Text Mining — Gendered Humor in Stand-Up Comedy](https://github.com/palomanavarro22/text-mining-project) | TF-IDF, sentiment analysis & LDA topic modelling on scraped stand-up comedy scripts | `R` `tidytext` `topicmodels` |
-              | 🕸️ Network Analysis — Epstein Document Network | Community detection, centrality measures & entity resolution on a document network | `R` `igraph` `Python` `NetworkX` |
-              | ⚖️ Algorithmic Fairness — Titanic Dataset | Bias measurement, reweighting mitigation & LIME interpretability | `R` |
-              | 🌍 Multilevel Modeling — LGBT+ Rights in 28 EU Countries | Hierarchical GLMMs on Eurobarometer + V-Dem data with MICE imputation | `R` `lme4` |
-              | 🗳️ Thesis — Digital Politics & Electoral Behavior | Analysis of Milei's 2023 Argentina campaign: social media scraping + LAPOP survey data | `R` `Python` |
+    ### 🚀 Featured Projects
 
-              *(links will be added as each repo goes live)*
+
 
               ---
 
