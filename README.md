@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Paloma 👋</h1>h1>
-<h3 align="center">Political Scientist → Computational Social Scientist</h3>h3>
+<h1 align="center">Hi, I'm Paloma 👋</h1>
+<h3 align="center">Political Scientist → Computational Social Scientist</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=white"/>
-</p>p>
+</p>
 
 ---
 
