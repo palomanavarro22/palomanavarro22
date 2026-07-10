@@ -20,7 +20,7 @@
 -  🌐 **Languages**: Spanish (native) · Italian (C2) · English (C1) · Catalan (advanced)
 -  📍 Based in Madrid, open to opportunities in political/social data analysis and research
 
-     - ---
+  - ---
 
     ### 🚀 Featured Projects
 
