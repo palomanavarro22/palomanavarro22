@@ -34,13 +34,13 @@ TF-IDF, sentiment analysis, and LDA topic modelling comparing language patterns 
 Community detection, link prediction, and epidemic spreading models on a network of document co-mentions.
 ![R](https://img.shields.io/badge/-R-lightgrey?style=flat-square) ![igraph](https://img.shields.io/badge/-igraph-lightgrey?style=flat-square)
 
+**[Multilevel Modeling: LGBT+ Rights in 28 EU Countries](https://github.com/palomanavarro22/lgbt-rights-multilevel-model)**
+Hierarchical GLMMs on Eurobarometer and V-Dem data with multiple imputation via MICE.
+![R](https://img.shields.io/badge/-R-lightgrey?style=flat-square) ![lme4](https://img.shields.io/badge/-lme4-lightgrey?style=flat-square)
+
 **Algorithmic Fairness: Titanic Dataset**
 Bias measurement, reweighting mitigation, and LIME interpretability on a classification model.
 ![R](https://img.shields.io/badge/-R-lightgrey?style=flat-square)
-
-**Multilevel Modeling: LGBT+ Rights in 28 EU Countries**
-Hierarchical GLMMs on Eurobarometer and V-Dem data with multiple imputation via MICE.
-![R](https://img.shields.io/badge/-R-lightgrey?style=flat-square) ![lme4](https://img.shields.io/badge/-lme4-lightgrey?style=flat-square)
 
 **Thesis: Digital Politics and Electoral Behavior**
 Analysis of Javier Milei's 2023 Argentina campaign combining social media scraping and LAPOP survey data.
