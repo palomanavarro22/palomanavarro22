@@ -16,7 +16,7 @@
 - Quantitative background: statistical modeling, machine learning, text mining, network analysis, web scraping, survey analysis
 - Research focus: digital politics and electoral behavior, my thesis analyzes Javier Milei's 2023 Argentina campaign combining social media scraping and survey data
 - Particularly interested in Latin American political behavior
-- Previously interned at NTT Data (public sector consulting), Cercle Tecnologic de Catalunya, and Seidor
+- Previously interned at NTT Data (public sector consulting), Cercle Tecnòlogic de Catalunya and Seidor
 - Languages: Spanish (native), Italian (C2), English (C1), Catalan (advanced)
 - Based in Madrid, open to opportunities in political/social data analysis and research
 
