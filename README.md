@@ -52,7 +52,7 @@ Scraping and analysis of the international sections of four major Spanish newspa
 Analysis of Javier Milei's 2023 Argentina campaign combining social media scraping and survey data.
 ![R](https://img.shields.io/badge/-R-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/-Python-lightgrey?style=flat-square)
 
-*(links will be added as each repo goes live)*
+
 
 ---
 
