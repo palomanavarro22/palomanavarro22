@@ -12,7 +12,7 @@
 ### About me
 
 - BA in Political Science, Universitat Pompeu Fabra (Barcelona)
-- MSc in Computational Social Science, UC3M (graduating Sept 2026)
+- MSc in Computational Social Science, UC3M
 - Quantitative background: statistical modeling, machine learning, text mining, network analysis, web scraping, survey analysis
 - Research focus: digital politics and electoral behavior, my thesis analyzes Javier Milei's 2023 Argentina campaign combining social media scraping and survey data
 - Particularly interested in Latin American political behavior
