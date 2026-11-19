@@ -18,7 +18,7 @@
 - Particularly interested in Latin American political behavior
 - Previously interned at NTT Data (public sector consulting), Cercle Tecnòlogic de Catalunya and Seidor
 - Languages: Spanish (native), Italian (C2), English (C1), Catalan (advanced)
-- Based in Madrid, open to opportunities in political/social data analysis and research
+- Based in Barcelona, open to opportunities in political/social data analysis and research
 
 ---
 
